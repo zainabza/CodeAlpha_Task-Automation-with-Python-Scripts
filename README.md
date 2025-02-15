@@ -6,10 +6,12 @@ Features:
 Sorts files into categories like Images, Documents, Videos, Music, Archives, and Others.
 Automatically creates folders for each category if they don’t exist.
 Handles case sensitivity and moves unclassified files to an "Others" folder.
+
 How to Use:
 Run the script.
 Enter the folder path you want to organize.
 Let the script do the sorting for you!
+
 Example:
 Before: A cluttered folder with mixed file types.
 After: Files neatly organized into category-based folders!
